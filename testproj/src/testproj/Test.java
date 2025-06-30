@@ -5,4 +5,9 @@ public class Test {
 	{
 		System.out.println("Hello World");
 	}
+	
+	public static int substract(int a, int b)
+	{
+		return a-b;
+	}
 }
